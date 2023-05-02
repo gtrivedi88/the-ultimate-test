@@ -1,0 +1,5 @@
+//How-to-guides
+include::docs/modules/ROOT/pages/how-to-guides/index.adoc[]
+include::docs/modules/ROOT/pages/how-to-guides/creating_a_custom_application_test_with_test_pipelines.adoc[leveloffset=+1]
+include::docs/modules/ROOT/pages/how-to-guides/delete_application.adoc[leveloffset=+1]
+include::docs/modules/ROOT/pages/how-to-guides/delete_application.adoc[leveloffset=+1]
