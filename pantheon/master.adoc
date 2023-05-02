@@ -1,2 +1,2 @@
 //How-to-guides
-include::docs/modules/ROOT/pages/how-to-guides/proc_creating-a-custom-application-test-with-test-pipelines.adoc[leveloffset=+1]
+include::docs/modules/ROOT/pages/how-to-guides/proc_creating-a-custom-application-test-with-test-pipelines.adoc[]

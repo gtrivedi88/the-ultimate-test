@@ -1,0 +1,4 @@
+<!ENTITY PRODUCT "{ProductShortName}">
+<!ENTITY BOOKID "Creating a Custom Application Test with Test Pipelines">
+<!ENTITY YEAR "2023">
+<!ENTITY HOLDER "Red Hat, Inc">

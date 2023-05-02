@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE book [
+<!ENTITY % sgml.features "IGNORE">
+<!ENTITY % xml.features "INCLUDE">
+<!ENTITY % DOCBOOK_ENTS PUBLIC "-//OASIS//ENTITIES DocBook Character Entities V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/dbcentx.mod">
+%DOCBOOK_ENTS;
+]>
+<?asciidoc-toc?><?asciidoc-numbered?><book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+<info>
+<title>Creating a Custom Application Test with Test Pipelines</title><subtitle>Guide to securely storing credentials in credential stores</subtitle>
+
+<date>2023-05-02</date>
+<productname>{ProductShortName}</productname>
+<abstract>
+    <para>Guide to securely storing credentials in credential stores.</para>
+</abstract>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Author_Group.xml"/>
+<xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Common_Content/Legal_Notice.xml"/>
+</info>
+<preface>
+<title>Preface</title>
+<simpara>Write a short introductory paragraph that provides an overview of the module. The introduction should include what the module will help the user do and why it will be beneficial to the user. Include key words that relate to the module to maximize search engine optimization.</simpara>
+<itemizedlist>
+<title>Prerequisites</title>
+<listitem>
+<simpara>A bulleted list of conditions that must be satisfied before the user starts the steps in this module.</simpara>
+</listitem>
+<listitem>
+<simpara>Prerequisites can be full sentences or sentence fragments; however, prerequisite list items must be parallel.</simpara>
+</listitem>
+</itemizedlist>
+<orderedlist numeration="arabic">
+<title>Procedure</title>
+<listitem>
+<simpara>Make each step an instruction.</simpara>
+</listitem>
+<listitem>
+<simpara>Include one command or action for each step with the exception of simple follow-step, for example:</simpara>
+<orderedlist numeration="loweralpha">
+<listitem>
+<simpara>Do this thing and then select <emphasis role="strong">Next</emphasis>.</simpara>
+</listitem>
+<listitem>
+<simpara>Do this other thing and then select <emphasis role="strong">Next</emphasis>.</simpara>
+</listitem>
+</orderedlist>
+</listitem>
+<listitem>
+<simpara>Use an unnumbered bullet (*) if the procedure includes only one step.</simpara>
+</listitem>
+</orderedlist>
+<orderedlist numeration="arabic">
+<title>Verification</title>
+<listitem>
+<simpara>Provide an example of expected command output or a pop-up window that the user receives when the procedure is successful.</simpara>
+</listitem>
+<listitem>
+<simpara>List actions for the user to complete, such as entering a command, to determine the success or failure of the procedure.</simpara>
+</listitem>
+<listitem>
+<simpara>Make each step an instruction.</simpara>
+</listitem>
+<listitem>
+<simpara>Include one command or action per step.</simpara>
+</listitem>
+<listitem>
+<simpara>Use an unnumbered bullet (*) if the verification includes only one step.</simpara>
+</listitem>
+</orderedlist>
+<itemizedlist role="_additional-resources">
+<title>Additional resources</title>
+<listitem>
+<simpara>A bulleted list of links to other closely-related material. These links can include <literal>link:</literal> and <literal>xref:</literal> macros.</simpara>
+</listitem>
+<listitem>
+<simpara>For more details on writing procedure modules, see the <link xlink:href="https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide">Modular Documentation Reference Guide</link>.</simpara>
+</listitem>
+<listitem>
+<simpara>Use a consistent system for file names, IDs, and titles. For tips, see <emphasis>Anchor Names and File Names</emphasis> in <link xlink:href="https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide">Modular Documentation Reference Guide</link>.</simpara>
+</listitem>
+</itemizedlist>
+</preface>
+</book>
