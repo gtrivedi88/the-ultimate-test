@@ -1,2 +1,2 @@
 * How-to guides
-** xref:how-to-guides/creating_a_custom_application_test_with_test_pipelines.adoc[CLI: Creating a custom application test with test pipelines]
+** xref:how-to-guides/proc_creating-a-custom-application-test-with-test-pipelines.adoc[CLI: Creating a custom application test with test pipelines]
